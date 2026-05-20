@@ -32,6 +32,7 @@ Interested in Cloud Infrastructure, System Design, and Deployment Automation
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kgopi122&layout=compact&theme=tokyonight)
 ## 🚀 Skills
 
+![DSA](https://img.shields.io/badge/DSA-Problem_Solving-orange?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +41,6 @@ Interested in Cloud Infrastructure, System Design, and Deployment Automation
 
 ![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-blueviolet?style=for-the-badge)
 
-![DSA](https://img.shields.io/badge/DSA-Problem_Solving-orange?style=for-the-badge)
 
 ## ⚙ DevOps Tools
 
