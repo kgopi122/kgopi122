@@ -32,66 +32,44 @@ Interested in Cloud Infrastructure, System Design, and Deployment Automation
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kgopi122&layout=compact&theme=tokyonight)
 ## 🚀 Skills
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving-orange?style=for-the-badge"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/DSA-Problem_Solving-orange?style=for-the-badge" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Full_Stack-Developer-blueviolet?style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-blueviolet?style=for-the-badge"/>
+</p>
 
 ---
 
 ## ⚙ DevOps Tools
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
 
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
