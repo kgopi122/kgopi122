@@ -32,32 +32,96 @@ Interested in Cloud Infrastructure, System Design, and Deployment Automation
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kgopi122&layout=compact&theme=tokyonight)
 ## 🚀 Skills
 
+<table>
+<tr>
+<td>
+
 ![DSA](https://img.shields.io/badge/DSA-Problem_Solving-orange?style=for-the-badge)
+
+</td>
+<td>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</td>
+<td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+</td>
+</tr>
+
+<tr>
+<td>
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+</td>
+<td>
 
 ![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-blueviolet?style=for-the-badge)
 
+</td>
+<td></td>
+</tr>
+</table>
+
+---
 
 ## ⚙ DevOps Tools
 
+<table>
+<tr>
+<td>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+<td>
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</td>
+<td>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+</td>
+<td>
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+</td>
+<td>
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
+</td>
+</tr>
+
+<tr>
+<td>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</td>
+<td>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</td>
+<td>
+
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+</td>
+</tr>
+</table>
