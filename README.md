@@ -27,11 +27,9 @@ Interested in Cloud Infrastructure, System Design, and Deployment Automation
 - **LeetCode:** [leetcode.com/gsai122](https://leetcode.com/gsai122)
 ## GitHub Stats
 
-## GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kgopi122&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kgopi122&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgopi122&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kgopi122&layout=compact&theme=tokyonight)
 ## 🚀 Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
